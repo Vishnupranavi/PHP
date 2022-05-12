@@ -21,21 +21,6 @@ echo "<br>";
 echo gettype($c_float);
 echo "<br>";
 echo 'Hai sir,"\'May I come in"';
-echo "<br>";
-echo <<<END
-    a
-    b
-    c
-    \n
- END;
- echo "<br>";
- $values = [<<<END
-a
-  b
-    c
-END, 'd e f'];
-var_dump($values);
-echo "<br>";
 $cars=array("harini","aarthy","oviya");
 var_dump($cars);
 echo "<br>";
