@@ -1,8 +1,7 @@
 <?php
-namespace a;
-class Name{
-    function intro(){
-     echo "hai";
- }
-}
-?>
+namespace ex1;
+class msg{
+    function mymsg(){
+        echo "hai";
+    }
+  ?>

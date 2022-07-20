@@ -1,8 +1,8 @@
 <?php
-namespace b;
-class Name{
- function intro(){
-     echo "hello";
- }
+namespace ex2;
+class msg{
+    function mymsg(){
+        echo "welcome aspire";
+    }
 }
 ?>
