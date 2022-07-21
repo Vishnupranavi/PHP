@@ -29,5 +29,6 @@ enum Suit implements Colorful
         };
     }
 }
+Suit::tryFrom('Hearts')->color());
 ?>
 
